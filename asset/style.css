@@ -1,0 +1,19 @@
+
+
+body {
+	font-size: 36px;
+	font-family: "Times New Roman", "Arial", "sans-serf";
+	text-align: center;	
+	background-size: 1400px;
+	background-color: skyblue;
+	background-image: url("http://img0.liveinternet.ru/images/attach/c/0/120/284/120284370_10729044.gif");
+}
+
+input {
+	resize: 36px;
+}
+
+button {
+	color: white;
+	background-color: gray;
+}
